@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Diya Gandotra!
 
-I am a **Software Engineer** and a **Data Science Enthusiast** based in Delhi, India. With a strong passion for **technology** and a curiosity to explore its diverse applications, I am always eager to take on new challenges and push boundaries in software development, data analysis, and artificial intelligence.
+I am a **Software Engineer** based in Hyderabad, India. With a strong passion for **technology** and a curiosity to explore its diverse applications, I am always eager to take on new challenges and push boundaries in software development, data analysis, and artificial intelligence.
 
 ### 🌟 What I Do:
 - **Software Engineering**: I have hands-on experience in developing and optimizing applications, primarily using **Python** and **JavaScript**. During my internship at Oxford University Press, I improved software accuracy by 15% through debugging and code optimization.
